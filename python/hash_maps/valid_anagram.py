@@ -14,8 +14,11 @@ Return True if t is an anagram of s; otherwise, return False.
 
 Example:
 Input: "anagram", "nagaram"
-
 Output: True
+
+Complexity:
+Time: O(n)
+Space: O(n)
 """
 
 def valid_anagram(s,t):
